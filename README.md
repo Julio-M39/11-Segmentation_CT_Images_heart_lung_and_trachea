@@ -1,1 +1,1 @@
-# 11-Segmentation_CT_Images_heart_lung_and_trachea
+# U-Net para Segmentação de Imagens de Tomografia Computadorizada (Coração, Pulmão e Traqueia)
